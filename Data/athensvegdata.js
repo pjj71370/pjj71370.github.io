@@ -1,4 +1,7 @@
-[{
+[
+{
+      "restaurants": [
+    {
       "restaurant_info": {
         "restaurant_name": "Pita Pit",
         "brief_description": "Fresh Thinking, Healthy Eating",
@@ -2419,6 +2422,5 @@
         }
       ],
       "id": "MlU5Z3FpNEpHWXpodVFwVlZ4SU1kY1lCTjR4NFRMOXR2Y0xDdm1JVThiM3VlWitLSjFBQnR3dUI4ZStXVHcrLw=="
-    }
- ]
- 
+      }
+ ]}]
