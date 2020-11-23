@@ -10,6 +10,7 @@
         "country": "US",
         "phone": "706-552-0051",
         "website_url": "http://pitapitusa.com",
+        "restaurant_image": "https://pjj71370.github.io/Data/images/pita.jpg",
       "menus": [
         {
           "menu_name": "Pita Pit Menu",
@@ -149,6 +150,7 @@
         "country": "US",
         "phone": "706-552-0051",
         "website_url": "http://thegrit.com",
+        "restaurant_image": "https://pjj71370.github.io/Data/images/grit.jpg",
       "menus": [
         {
           "menu_name": "The Grit Menu",
@@ -287,6 +289,7 @@
         "country": "US",
         "phone": "706-552-0051",
         "website_url": "http://tzazikis.com",
+        "restaurant_image": "https://pjj71370.github.io/Data/images/tzazikis.jpg",
       "menus": [
         {
           "menu_name": "Tzazikis Menu",
@@ -425,6 +428,7 @@
         "country": "US",
         "phone": "706-552-0051",
         "website_url": "http://fruttabowls.com",
+        "restaurant_image": "https://pjj71370.github.io/Data/images/frutta.jpg",
       "menus": [
         {
           "menu_name": "Frutta Bowls Menu",
