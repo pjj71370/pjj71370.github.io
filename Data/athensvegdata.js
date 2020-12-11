@@ -142,7 +142,7 @@
     {
         "restaurant_name": "The Grit",
         "brief_description": "Vegetarian Fare Made Delicious",
-        "address_1": "123 Broad St.",
+        "address_1": "199 Prince Ave.",
         "address_2": "",
         "city_town": "Athens",
         "state_province": "GA",
@@ -161,30 +161,36 @@
               "menu_items": [
                 {
                   "menu_item_name": "Dagwood",
-                  "menu_item_description": "Turkey, black forest ham, prime rib, shredded lettuce, tomatoes, onions, cheddar cheese, light mayo, horseradish dijon"
+                  "menu_item_description": "Turkey, black forest ham, prime rib, shredded lettuce, tomatoes, onions, cheddar cheese, light mayo, horseradish dijon",
+                  "price": "9.50"
                 },
                 {
                   "menu_item_name": "Gyro",
-                  "menu_item_description": "Mediterranean seasoned beef, romaine, tomatoes, cucumbers, onions, black olives, feta cheese, tzatziki"
+                  "menu_item_description": "Mediterranean seasoned beef, romaine, tomatoes, cucumbers, onions, black olives, feta cheese, tzatziki",
+                  "price": "9.50"
                 },
                 {
                   "menu_item_name": "Philly Steak",
-                  "menu_item_description": "Thinly sliced steak, grilled onions, grilled green peppers, grilled mushrooms, melted provolone cheese, ancho chipotle sauce"
+                  "menu_item_description": "Thinly sliced steak, grilled onions, grilled green peppers, grilled mushrooms, melted provolone cheese, ancho chipotle sauce",
+                  "price": "9.50"
                 
                 },
                 {
                   "menu_item_name": "Prime Rib",
-                  "menu_item_description": "Prime rib, shredded lettuce, tomatoes, onions, green peppers, cheddar cheese, horseradish dijon"
+                  "menu_item_description": "Prime rib, shredded lettuce, tomatoes, onions, green peppers, cheddar cheese, horseradish dijon",
+                  "price": "9.50"
                  
                 },
                 {
                   "menu_item_name": "Tuna",
-                  "menu_item_description": "Tuna, shredded lettuce, tomatoes, pickles, cheddar cheese, light mayo.."
+                  "menu_item_description": "Tuna, shredded lettuce, tomatoes, pickles, cheddar cheese, light mayo..",
+                  "price": "9.50"
                  
                 },
                 {
                   "menu_item_name": "Turkey",
-                  "menu_item_description": "Deli style turkey, shredded lettuce, tomatoes, cucumbers, provolone cheese, light mayo"
+                  "menu_item_description": "Deli style turkey, shredded lettuce, tomatoes, cucumbers, provolone cheese, light mayo",
+                  "price": "9.50"
                  
                 },
                 {
