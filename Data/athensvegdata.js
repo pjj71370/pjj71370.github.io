@@ -152,15 +152,31 @@
                   
                 },
                 {
-                  "menu_item_name": "B.L.T",
-                  "menu_item_description": "Bacon, shredded lettuce, tomatoes, light mayo"
+                  "menu_item_name": "Steak n' Eggs",
+                  "menu_item_description": "Eggs, hashbrowns, thinly sliced steak, grilled onions & green peppers, cheddar cheese"
                 
                 },
                 {
-                  "menu_item_name": "Black Forest Ham",
-                  "menu_item_description": "Black forest ham, shredded lettuce, tomatoes, provolone cheese, yellow mustard, light mayo"
+                  "menu_item_name": "Morning Glory",
+                  "menu_item_description": "Eggs, hashbrowns, tomatoes, grilled onions & peppers, cheddar cheese"
                 
-            }
+            },
+            
+            {
+                  "menu_item_name": "Meat the Day®",
+                  "menu_item_description": "Black forest ham, bacon, eggs, grilled onions, grilled peppers, hashbrowns, cheddar cheese"
+                  
+                },
+                {
+                  "menu_item_name": "Awakin' with Bacon®",
+                  "menu_item_description": "Eggs, hashbrowns, bacon, grilled onions & green peppers, cheddar cheese"
+                
+                },
+                {
+                  "menu_item_name": "Ham & Eggs",
+                  "menu_item_description": "Eggs, hashbrowns, black forest ham, grilled onions & Peppers, cheddar cheese"
+   
+                }
             ]
             },
             {
