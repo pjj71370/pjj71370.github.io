@@ -83,6 +83,36 @@
                 
                 },
                 {
+                  "menu_item_name": "Spicy Black Bean Pita",
+                 "menu_item_description": "Black bean patty, spinach, tomatoes, cucumbers, onions, pepperoncini's, provolone cheese, ancho chipotle sauce"
+                
+            },
+            {
+                  "menu_item_name": "Garden Pita",
+                  "menu_item_description": "Romaine lettuce, tomatoes, cucumbers, onions, green peppers, ranch dressing"
+                  
+                },
+                {
+                  "menu_item_name": "Cheese Pita",
+                  "menu_item_description": "Your choice of cheddar, provolone or feta cheese, shredded lettuce, tomatoes, cucumbers, onions, green peppers, ranch dressing"
+                
+                },
+                {
+                  "menu_item_name": "Hummus Pita",
+                  "menu_item_description": "Hummus, spinach, tomatoes, cucumbers, black olives, feta cheese, tzatziki"
+                
+                },
+                {
+                  "menu_item_name": "Falafel",
+                  "menu_item_description": "Falafel, shredded lettuce, tomatoes, cucumbers, black olives, feta cheese, tzatziki"
+                  
+                },
+                {
+                  "menu_item_name": "B.L.T",
+                  "menu_item_description": "Bacon, shredded lettuce, tomatoes, light mayo"
+                
+                },
+                {
                   "menu_item_name": "Black Forest Ham",
                   "menu_item_description": "Black forest ham, shredded lettuce, tomatoes, provolone cheese, yellow mustard, light mayo"
                 
