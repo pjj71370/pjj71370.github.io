@@ -150,7 +150,7 @@
         "country": "US",
         "phone": "706-552-0051",
         "website_url": "http://thegrit.com",
-        "restaurant_image": "https://pjj71370.github.io/Data/images/grit.jpeg",
+        "restaurant_image": "https://pjj71370.github.io/Data/images/grit.jpg",
       "menus": [
         {
           "menu_name": "The Grit Menu",
@@ -295,7 +295,7 @@
         "country": "US",
         "phone": "706-552-0051",
         "website_url": "http://tzazikis.com",
-        "restaurant_image": "https://pjj71370.github.io/Data/images/tzazikis.jpeg",
+        "restaurant_image": "https://pjj71370.github.io/Data/images/tzazikis.jpg",
       "menus": [
         {
           "menu_name": "Tzazikis Menu",
