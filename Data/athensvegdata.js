@@ -1,7 +1,7 @@
         [
     {
         "restaurant_name": "Pita Pit",
-        "brief_description": "Fresh Thinking, Healthy Eating",
+        "brief_description": "Mediterranean",
         "address_1": "123 North Jackson St.",
         "address_2": "",
         "city_town": "Athens",
@@ -187,7 +187,7 @@
 
     {
         "restaurant_name": "The Grit",
-        "brief_description": "100% meat-free eatery",
+        "brief_description": "100% Vegetarian",
         "address_1": "199 Prince Ave.",
         "address_2": "",
         "city_town": "Athens",
@@ -719,7 +719,7 @@
   },
 {
         "restaurant_name": "Tzazikis",
-        "brief_description": "Made-to-order gyros & other Mediterranean dishes",
+        "brief_description": "Mediterranean",
         "address_1": "227 Prince Ave.",
         "address_2": "",
         "city_town": "Athens",
@@ -903,7 +903,7 @@
   },
 {
         "restaurant_name": "Frutta Bowls",
-        "brief_description": "Superfood Cafe",
+        "brief_description": "Smoothie/Superfood Cafe",
         "address_1": "245 Oconee St.",
         "address_2": "",
         "city_town": "Athens",
@@ -1234,7 +1234,7 @@
   },
  {
         "restaurant_name": "Mama's Boy",
-        "brief_description": "American Restaurant",
+        "brief_description": "Southern/American",
         "address_1": "197 Oak St.",
         "address_2": "",
         "city_town": "Athens",
@@ -1628,7 +1628,7 @@
       "menus": [
         {
           "menu_name": "Jinya Menu",
-          "menu_description": "Delicious Smoothie Bowls",
+          "menu_description": "Japanese, Beer/Wine",
           "menu_groups": [
             {
               "group_name": "Full",
